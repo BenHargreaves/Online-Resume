@@ -1,15 +1,6 @@
-
-|<!-- -->      | <!-- -->  |
-| ----------- | ----------- |
-| ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)      | [bhargreaves91@gmail.com](mailto:bhargreaves91@gmail.com)         |
-| ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)   | [benjamanhargreaves](https://www.linkedin.com/in/benjamanhargreaves/)        |
-| ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  | [benhargreaves](https://github.com/benhargreaves)  |
-| <!-- --> | <!-- --> |
-
-<img src="images\envelope-solid.svg" width="20" height="20"> [bhargreaves91@gmail.com](mailto:bhargreaves91@gmail.com)  
+<img src="images\envelope-solid.svg" width="20" height="20" class="filter-yellow"> [bhargreaves91@gmail.com](mailto:bhargreaves91@gmail.com)  
 <img src="images\linkedin-brands.svg" width="20" height="20"> [benjamanhargreaves](https://www.linkedin.com/in/benjamanhargreaves/)  
-<img src="images\github-brands.svg" width="20" height="20">  [benhargreaves](https://github.com/benhargreaves)  
-
+<img src="images\github-square-brands.svg" width="20" height="20">  [benhargreaves](https://github.com/benhargreaves)  
 
 Team player dedicated to scaling startups, with experience ranging from front-line support, to technical sales, to back-end development.
 
