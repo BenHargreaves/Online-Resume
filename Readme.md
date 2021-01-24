@@ -1,7 +1,6 @@
-<img src="images\envelope-solid.svg" width="20" height="20" class="filter-yellow"> [bhargreaves91@gmail.com](mailto:bhargreaves91@gmail.com)  
-<img src="images\linkedin-brands.svg" width="20" height="20" class="linkedin-blue"> [benjamanhargreaves](https://www.linkedin.com/in/benjamanhargreaves/)  
-<img src="images\github-square-brands.svg" width="20" height="20" class="github-grey">  [benhargreaves](https://github.com/benhargreaves)  
-
+<img src="images\envelope-solid.svg" width="20" height="20" > [bhargreaves91@gmail.com](mailto:bhargreaves91@gmail.com)  
+<img src="images\linkedin-brands.svg" width="20" height="20" > [benjamanhargreaves](https://www.linkedin.com/in/benjamanhargreaves/)  
+<img src="images\github-square-brands.svg" width="20" height="20" >  [benhargreaves](https://github.com/benhargreaves)  
 
 Team player dedicated to scaling startups, with experience ranging from front-line support, to technical sales, to back-end development.
 
