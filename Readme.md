@@ -2,6 +2,10 @@
 <img src="images\linkedin-brands.svg" width="20" height="20"> [benjamanhargreaves](https://www.linkedin.com/in/benjamanhargreaves/)  
 <img src="images\github-square-brands.svg" width="20" height="20">  [benhargreaves](https://github.com/benhargreaves)  
 
+<span class="linkedin-blue">
+    <img src="images\linkedin-brands.svg" width="20" height="20">   
+</span>
+
 Team player dedicated to scaling startups, with experience ranging from front-line support, to technical sales, to back-end development.
 
 ## Experience
