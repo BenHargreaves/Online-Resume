@@ -3,9 +3,13 @@
 
 @import "{{ site.theme }}";
 .filter-yellow {
-    filter: invert(85%) sepia(96%) saturate(7044%) hue-rotate(0deg) brightness(109%) contrast(100%);
+    filter: brightness(0) saturate(100%) invert(79%) sepia(33%) saturate(7437%) hue-rotate(13deg) brightness(112%) contrast(105%);
 };
 
 .linkedin-blue {
-    color: #0e76a8;
+    filter: brightness(0) saturate(100%) invert(33%) sepia(71%) saturate(981%) hue-rotate(166deg) brightness(96%) contrast(92%);
 };
+
+.github-grey {
+    filter: brightness(0) saturate(100%) invert(16%) sepia(0%) saturate(1640%) hue-rotate(222deg) brightness(98%) contrast(87%);
+}
