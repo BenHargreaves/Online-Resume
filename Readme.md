@@ -11,7 +11,7 @@ Team player dedicated to scaling startups, with experience ranging from front-li
 - Design, Build, and Run developer API ecosystem for No-Code platform. [Method API](https://developer.method.me/)
 - Created integration with Zapier platform to make pushing and pulling data into an account more accessible to less technical users. [Method CRM Integrations Zapier](https://zapier.com/apps/method-crm/integrations)
 - Implemented Messaging Architecture using RabbitMQ to decouple audit trail logging from existing microservices and to reduce reliance on synchronous processes
-- Designed and developed a Data Access Layer to perform all CRUD operations and accounting rule validation
+- Designed and developed a Data Access Layer to perform all CRUD operations and accounting rule validation for a No-Code platform
 
 #### Senior Support Specialist @ [Method:CRM](https://www.method.me/) - Toronto, Canada (December 2016 - September 2018)
 - Spearheaded process improvements, leading to an 83% decrease in First Response Time for front-line teams
@@ -31,7 +31,7 @@ Team player dedicated to scaling startups, with experience ranging from front-li
 
 ## Technical Skills
 **Languages / Frameworks:**
-C# / .NET, Python
+C# / .NET Framework 4.x, ASP.NET Core 3.x, Python
 
 **Web Development:**
 React, JavaScript, HTML, CSS
