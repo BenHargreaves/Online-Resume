@@ -6,25 +6,27 @@ Team player dedicated to scaling startups, with experience ranging from front-li
 
 ## Experience
 
-#### Software Developer @ [Method:CRM](https://www.method.me/) - Toronto, Canada (September 2018 - Present)
-- Part of the Data Team - responsible for account data integrity, enforcing business and accounting rules on all CRUD operations, maintaining the public API, and ensuring a proper Audit Trail is kept for all transactions
-- Design, Build, and Run developer API ecosystem for No-Code platform. [Method API](https://developer.method.me/)
-- Created integration with Zapier platform to make pushing and pulling data into an account more accessible to less technical users. [Method CRM Integrations Zapier](https://zapier.com/apps/method-crm/integrations)
-- Implemented Messaging Architecture using RabbitMQ to decouple audit trail logging from existing microservices and to reduce reliance on synchronous processes
+#### Software Developer @ [Method:CRM](https://www.method.me/) - Toronto, Canada (Sep 2018 - Present)
+- Design, Build, and Run developer API ecosystem for No-Code platform  [(Method API)](https://developer.method.me/)
+- Created integration with Zapier platform to make pushing and pulling data into an account more accessible to less technical users  [(Method CRM Integrations Zapier)](https://zapier.com/apps/method-crm/integrations)
+- Migrated audit trail data storage from SQL server to ElasticSearch to reduce pressure on storage drives by 90%
+- Implemented messaging architecture using RabbitMQ to decouple audit trail logging from existing microservices and reduce reliance on synchronous processes
 - Designed and developed a Data Access Layer to perform all CRUD operations and accounting rule validation for a No-Code platform
+- Migrated product pages from AngularJS to new React / Redux architecture
+- Implemented new AODA accessibility standards compliance to front end product pages
 
-#### Senior Support Specialist @ [Method:CRM](https://www.method.me/) - Toronto, Canada (December 2016 - September 2018)
+#### Senior Support Specialist @ [Method:CRM](https://www.method.me/) - Toronto, Canada (Dec 2016 - Sep 2018)
 - Spearheaded process improvements, leading to an 83% decrease in First Response Time for front-line teams
 - Launched Intercom chat into product; platform has grown to be company’s highest volume form of inbound communication since launch
 - Wrote Katalon scripts to assist the Development and QA teams in our goal of fully automating regression testing
 - Trained and managed First Responder and Technical Support teams on best practices and how to develop personalized customer solutions
 
-#### Community Support / Online Technical Support @ [Method:CRM](https://www.method.me/) - Toronto, Canada (June 2015 - December 2016)
+#### Community Support / Online Technical Support @ [Method:CRM](https://www.method.me/) - Toronto, Canada (Jun 2015 - Dec 2016)
 - Used JIRA to coordinate with members of our Development team to prioritize and test escalated issues
 - Performed Quality Assurance and provided feedback to Product teams on new features and releases
 - Built and maintained internal knowledge-base to streamline new-hire onboarding experience
 
-#### Geek Squad Precinct Agent @ [FutureShop (now BestBuy Canada)](http://futureshop.ca/) - Toronto, Canada (July 2014 - June 2015)
+#### Geek Squad Precinct Agent @ [FutureShop (now BestBuy Canada)](http://futureshop.ca/) - Toronto, Canada (Jul 2014 - Jun 2015)
 - Became one of the best-performing Geek Squad Agencies in Ontario for precinct revenue, achieved through strong sales tactics and wide product knowledge
 - Responsible for setup, diagnosis, repair and training users on a number of devices: PC, Mac, Android and iOS devices, Smart TVs and routers
 - Trained and managed co-op students on Customer Service, Sales, Technical Support and User-Training
