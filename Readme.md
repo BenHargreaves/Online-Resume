@@ -4,6 +4,19 @@
 
 Team player dedicated to scaling startups, with experience ranging from front-line support, to technical sales, to back-end development.
 
+## Technical Skills
+**Languages / Frameworks:**
+C# / .NET Framework 4.x, ASP.NET Core 3.x, Python
+
+**Web Development:**
+React, JavaScript, HTML, CSS
+
+**Database Technologies:**
+SQL Server, ElasticSearch, MongoDB, Redis
+
+**Software / Tools:**
+Visual Studio, JIRA, Git, Docker, RabbitMQ / MassTransit, TFS, Katalon
+
 ## Experience
 
 #### Software Developer @ [Method:CRM](https://www.method.me/) - Toronto, Canada (Sep 2018 - Present)
@@ -30,19 +43,6 @@ Team player dedicated to scaling startups, with experience ranging from front-li
 - Became one of the best-performing Geek Squad Agencies in Ontario for precinct revenue, achieved through strong sales tactics and wide product knowledge
 - Responsible for setup, diagnosis, repair and training users on a number of devices: PC, Mac, Android and iOS devices, Smart TVs and routers
 - Trained and managed co-op students on Customer Service, Sales, Technical Support and User-Training
-
-## Technical Skills
-**Languages / Frameworks:**
-C# / .NET Framework 4.x, ASP.NET Core 3.x, Python
-
-**Web Development:**
-React, JavaScript, HTML, CSS
-
-**Database Technologies:**
-SQL Server, ElasticSearch, MongoDB, Redis
-
-**Software / Tools:**
-Visual Studio, JIRA, Git, Docker, RabbitMQ / MassTransit, TFS, Katalon
 
 ## Education
 Bachelor of Information Technology @ [Queensland University of Technology](https://www.qut.edu.au/) - Brisbane, Australia (2010 - 2013)
