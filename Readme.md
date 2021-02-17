@@ -11,7 +11,7 @@ Team player dedicated to scaling startups, with experience ranging from front-li
 - Created Zapier integration to make connecting with third party applications more accessible to less technical users  [(Method CRM Zapier Integration)](https://zapier.com/apps/method-crm/integrations)
 - Migrated audit trail data from SQL server to ElasticSearch, reducing pressure on storage drives by 90%
 - Implemented RabbitMQ messaging architecture to decouple audit trail logging from existing microservices
-- Designed and developed a data access layer to perform all CRUD operations and accounting rule validation for a no-code platform
+- Developed a data access layer to perform all CRUD operations and accounting rule validation for a no-code platform
 - Transitioned product pages from AngularJS to new React / Redux architecture
 - Implemented AODA accessibility standards compliance to front end product pages
 
