@@ -2,7 +2,7 @@
 <img src="images\linkedin-brands.svg" width="20" height="20" > [benjamanhargreaves](https://www.linkedin.com/in/benjamanhargreaves/)  
 <img src="images\github-square-brands.svg" width="20" height="20" >  [benhargreaves](https://github.com/benhargreaves)  
 
-Team player dedicated to scaling startups with a specialty in Integrations and API Design. Experience ranging from full-stack development, to technical sales, to front-line support.
+Team player dedicated to scaling startups with a specialty in Integrations and API Design. Certified AWS Solutions Architect with experience ranging from full-stack development and deployment, to technical sales, to front-line support.
 
 ## Technical Skills
 **Languages / Frameworks:**
@@ -11,8 +11,11 @@ C# / .NET Framework 4.x, ASP.NET Core 3.x, Python, NodeJS
 **Web Development:**
 React, JavaScript, HTML, CSS
 
+**AWS Cloud Services:**
+EC2, S3, Lambda, VPCs, IAM, CloudWatch, SQS, SNS, Route53, ECS / EKS, RDS
+
 **Database Technologies:**
-SQL Server, ElasticSearch, MongoDB, Redis
+SQL Server, ElasticSearch, MongoDB, Redis, DynamoDB, Amazon Aurora
 
 **Software / Tools:**
 Visual Studio, JIRA, Git, Docker, RabbitMQ / MassTransit, TFS, Katalon
