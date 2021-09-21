@@ -18,10 +18,10 @@ SQL Server, ElasticSearch, MongoDB, Redis
 Visual Studio, JIRA, Git, Docker, RabbitMQ / MassTransit, TFS, Katalon
 
 ## Certifications
-<a href="https://www.credly.com/badges/f1cc2e49-84a4-46f3-94db-73f46703d514/public_url">
+<a href="https://www.credly.com/badges/f1cc2e49-84a4-46f3-94db-73f46703d514/public_url" target="_blank">
     <img src="images\aws-certified-solutions-architect-associate.png" width="150" height="150" >
 </a>
-<a href="https://www.credly.com/badges/cd004a6c-fda6-4115-a311-63f9fca296d3/public_url">
+<a href="https://www.credly.com/badges/cd004a6c-fda6-4115-a311-63f9fca296d3/public_url" target="_blank">
     <img src="images\aws-certified-cloud-practitioner.png" width="150" height="150" >
 </a>
 
