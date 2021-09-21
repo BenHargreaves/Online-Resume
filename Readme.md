@@ -17,6 +17,10 @@ SQL Server, ElasticSearch, MongoDB, Redis
 **Software / Tools:**
 Visual Studio, JIRA, Git, Docker, RabbitMQ / MassTransit, TFS, Katalon
 
+## Certifications
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f1cc2e49-84a4-46f3-94db-73f46703d514" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cd004a6c-fda6-4115-a311-63f9fca296d3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ## Experience
 
 ### Software Developer @ [Method:CRM](https://www.method.me/) - Toronto, Canada (Sep 2018 - Present)
