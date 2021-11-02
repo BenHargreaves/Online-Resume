@@ -30,7 +30,14 @@ Visual Studio, JIRA, Git, Docker, RabbitMQ / MassTransit, TFS, Katalon
 
 ## Experience
 
-### Software Developer @ [Method:CRM](https://www.method.me/) - Toronto, Canada (Sep 2018 - Present)
+### Freelance Web Developer @ Self-Employed - Toronto, Canada (April 2021 - Present)
+**Skills:** Javascript, Project Management, API Integration, Domain Migration, WordPress, Wix / Wix Velo
+
+- Design & implement Menu & Ordering Page, and integrate with third party ordering app via API. Also managed site hosting migration  [(Gloryhole Doughnuts)](https://gloryholedoughnuts.com/)
+- Implement site design, and integrate with third party ordering app via API  [(Cici's Pizza)](https://www.cicistoronto.com/)
+- Assisted with site design & implementation [(Super Super Studios)](https://www.itssuperduper.com/)
+
+### Software Developer @ [Method:CRM](https://www.method.me/) - Toronto, Canada (Sep 2018 - May 2021)
 **Skills:** C#, React, NodeJS, REST API Design, .NET Core, OData, Microservices, RabbitMQ, SQL Server, MongoDB, ElasticSearch, Redis, InfluxDB, Grafana, TFS, Technical Documentation
 
 - Design, build, and run developer API ecosystem for no-code platform  [(Method API)](https://developer.method.me/)
