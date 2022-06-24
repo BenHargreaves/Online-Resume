@@ -31,12 +31,16 @@ Visual Studio, JIRA, Git, Docker, RabbitMQ / MassTransit, TFS, Katalon
 ## Experience
 
 ### Backend Developer @ [Bonsai](https://shopbonsai.ca/) - Toronto, Canada (Jan 2022 - June 2022)
-**Skills:**
+**Skills:** NodeJS, Typescript, MongoDB, RabbitMQ, GCP, E-Commerce Integration (Shopify, Magento)
+
+- Design and maintain a data ingestion pipeline, responsible for keeping our Database in sync with hundreds of external partners across millions of products
+- Responsible for onboarding and importing new merchant partners using E-commerce integrations, and externally hosted product feeds
+- Deprecated legacy Integration with Magento to lower infrastructure costs, and ensured existing Magento-based partners were migrated to a similar Integration
 
 ### Freelance Web Developer @ Self-Employed - Toronto, Canada (April 2021 - Present)
 **Skills:** Javascript, Project Management, API Integration, Domain Migration, WordPress, Wix / Wix Velo
 
-- Design & implement Menu & Ordering Page, and integrate with third party ordering app via API. Also managed site hosting migration  [(Gloryhole Doughnuts)](https://gloryholedoughnuts.com/)
+- Design and implement Menu & Ordering Page, and integrate with third party ordering app via API. Also managed site hosting migration  [(Gloryhole Doughnuts)](https://gloryholedoughnuts.com/)
 - Implement site design, and integrate with third party ordering app via API  [(Cici's Pizza)](https://www.cicistoronto.com/)
 - Assisted with site design & implementation [(Super Super Studios)](https://www.itssuperduper.com/)
 
