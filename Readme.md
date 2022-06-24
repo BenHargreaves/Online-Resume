@@ -30,6 +30,9 @@ Visual Studio, JIRA, Git, Docker, RabbitMQ / MassTransit, TFS, Katalon
 
 ## Experience
 
+### Backend Developer @ [Bonsai](https://shopbonsai.ca/) - Toronto, Canada (Jan 2022 - June 2022)
+**Skills:**
+
 ### Freelance Web Developer @ Self-Employed - Toronto, Canada (April 2021 - Present)
 **Skills:** Javascript, Project Management, API Integration, Domain Migration, WordPress, Wix / Wix Velo
 
