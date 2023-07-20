@@ -2,7 +2,7 @@
 <img src="images\linkedin-brands.svg" width="20" height="20" > [benjamanhargreaves](https://www.linkedin.com/in/benjamanhargreaves/)  
 <img src="images\github-square-brands.svg" width="20" height="20" >  [benhargreaves](https://github.com/benhargreaves)  
 
-Seasoned software engineer dedicated to scaling startups, with a specialty in Integrations and API Design. Certified AWS Solutions Architect with experience ranging from full-stack development and deployment, to technical sales, to front-line support.
+Seasoned software engineer dedicated to scaling startups, with a specialty in integrations and API design. Certified AWS Solutions Architect with experience ranging from full-stack development and deployment, to technical sales, to front-line support.
 
 ## Technical Skills
 **Languages / Frameworks:**
@@ -36,9 +36,10 @@ Azure Devops, Jira, Git, Docker, RabbitMQ / MassTransit, TFS, Katalon
 ### Senior Software Developer @ [Greenshield Canada](https://www.greenshield.ca/) (Formerly Inkblot Labs) - Toronto, Canada (August 2022 - Present)
 **Skills:** NodeJS, Typescript, Postgres, GCP, Azure Devops, System Architecture, Release Management, Health Data Compliance
 
-- Acting Team Lead for Digital Pharmacy team from inital conception of [Greenshield+](https://www.greenshieldplus.ca/). Launching successfully to over 150,000+ users on day 1 and growing
+- Acting Team Lead for Digital Pharmacy team from inital conception of [Greenshield+](https://www.greenshieldplus.ca/) to release. Launching successfully to over 150,000+ users on day 1 and growing
 - Architected and implemented Backend API and Database dealing with sensitive Public Health data (PII and Prescription data specifically), presenting architecture to wider team and security compliance team for scrutiny
 - Mentoring Junior and Intermediate developers through frequent pairing sessions and team lunch & learns
+- Defining and monitoring SLOs to ensuring ongoing performance of the application
 
 ### Backend Developer @ [Bonsai](https://shopbonsai.ca/) - Toronto, Canada (Jan 2022 - July 2022)
 **Skills:** NodeJS, Typescript, MongoDB, RabbitMQ, GCP, E-Commerce Integration (Shopify, Magento)
