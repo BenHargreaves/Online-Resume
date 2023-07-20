@@ -2,23 +2,26 @@
 <img src="images\linkedin-brands.svg" width="20" height="20" > [benjamanhargreaves](https://www.linkedin.com/in/benjamanhargreaves/)  
 <img src="images\github-square-brands.svg" width="20" height="20" >  [benhargreaves](https://github.com/benhargreaves)  
 
-Team player dedicated to scaling startups with a specialty in Integrations and API Design. Certified AWS Solutions Architect with experience ranging from full-stack development and deployment, to technical sales, to front-line support.
+Seasoned software engineer dedicated to scaling startups, with a specialty in Integrations and API Design. Certified AWS Solutions Architect with experience ranging from full-stack development and deployment, to technical sales, to front-line support.
 
 ## Technical Skills
 **Languages / Frameworks:**
-C# / .NET Framework 4.x, ASP.NET Core 3.x, Python, NodeJS
+NodeJS, Python, NestJS, C# / .NET Core 4.x
 
 **Web Development:**
 React, JavaScript, HTML, CSS
+
+**Google Cloud Product:**
+Compute Engine, Service Monitoring, Cloud Logging
 
 **AWS Cloud Services:**
 EC2, S3, Lambda, VPCs, IAM, CloudWatch, SQS, SNS, Route53, ECS / EKS, RDS
 
 **Database Technologies:**
-SQL Server, ElasticSearch, MongoDB, Redis, DynamoDB, Amazon Aurora
+Postgres, SQL Server, ElasticSearch, MongoDB, Redis, DynamoDB, Amazon Aurora
 
 **Software / Tools:**
-Visual Studio, JIRA, Git, Docker, RabbitMQ / MassTransit, TFS, Katalon
+Azure Devops, Jira, Git, Docker, RabbitMQ / MassTransit, TFS, Katalon
 
 ## Certifications
 <a href="https://www.credly.com/badges/f1cc2e49-84a4-46f3-94db-73f46703d514/public_url" target="_blank">
@@ -30,14 +33,21 @@ Visual Studio, JIRA, Git, Docker, RabbitMQ / MassTransit, TFS, Katalon
 
 ## Experience
 
-### Backend Developer @ [Bonsai](https://shopbonsai.ca/) - Toronto, Canada (Jan 2022 - June 2022)
+### Senior Software Developer @ [Greenshield Canada](https://www.greenshield.ca/) (Formerly Inkblot Labs) - Toronto, Canada (August 2022 - Present)
+**Skills:** NodeJS, Typescript, Postgres, GCP, Azure Devops, System Architecture, Release Management, Health Data Compliance
+
+- Acting Team Lead for Digital Pharmacy team from inital conception of [Greenshield+](https://www.greenshieldplus.ca/). Launching successfully to over 150,000+ users on day 1 and growing
+- Architected and implemented Backend API and Database dealing with sensitive Public Health data (PII and Prescription data specifically), presenting architecture to wider team and security compliance team for scrutiny
+- Mentoring Junior and Intermediate developers through frequent pairing sessions and team lunch & learns
+
+### Backend Developer @ [Bonsai](https://shopbonsai.ca/) - Toronto, Canada (Jan 2022 - July 2022)
 **Skills:** NodeJS, Typescript, MongoDB, RabbitMQ, GCP, E-Commerce Integration (Shopify, Magento)
 
 - Design and maintain a data ingestion pipeline, responsible for keeping our Database in sync with hundreds of external partners across millions of products
 - Responsible for onboarding and importing new merchant partners using E-commerce integrations, and externally hosted product feeds
 - Deprecated legacy Integration with Magento to lower infrastructure costs, and ensured existing Magento-based partners were migrated to a similar Integration
 
-### Freelance Web Developer @ Self-Employed - Toronto, Canada (April 2021 - Present)
+### Freelance Web Developer @ Self-Employed - Toronto, Canada (April 2021 - January 2023)
 **Skills:** Javascript, Project Management, API Integration, Domain Migration, WordPress, Wix / Wix Velo
 
 - Design and implement Menu & Ordering Page, and integrate with third party ordering app via API. Also managed site hosting migration  [(Gloryhole Doughnuts)](https://gloryholedoughnuts.com/)
@@ -69,13 +79,6 @@ Visual Studio, JIRA, Git, Docker, RabbitMQ / MassTransit, TFS, Katalon
 - Used JIRA to coordinate with members of our Development team to prioritize and test escalated issues
 - Performed Quality Assurance and provided feedback to Product teams on new features and releases
 - Built and maintained internal knowledge-base to streamline new-hire onboarding experience
-
-### Geek Squad Precinct Agent @ [FutureShop (now BestBuy Canada)](http://futureshop.ca/) - Toronto, Canada (Jul 2014 - Jun 2015)
-**Skills:** Mentorship / Training, Sales, Customer service
-
-- Became one of the best-performing Geek Squad Agencies in Ontario for precinct revenue, achieved through strong sales tactics and wide product knowledge
-- Responsible for setup, diagnosis, repair and training users on a number of devices: PC, Mac, Android and iOS devices, Smart TVs and routers
-- Trained and managed co-op students on Customer Service, Sales, Technical Support and User-Training
 
 ## Education
 **Bachelor of Information Technology** @ [Queensland University of Technology](https://www.qut.edu.au/) - Brisbane, Australia (2010 - 2013)
